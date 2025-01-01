@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Academicpage of Yi Li"
+title                    : "李 忆（Yi Li）"
 title_separator          : "-"
 name                     : &name "Yi Li"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "Yi_Li.png"
-  name             : "Your Sidebar Name"
+  name             : "李 忆（Yi Li）"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Earth"
