@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yi Li | Prof. PhD"
+title                    : "Yi Li | CQUPT"
 title_separator          : "-"
 name                     : &name "Yi Li"
 description              : &description "personal description"
