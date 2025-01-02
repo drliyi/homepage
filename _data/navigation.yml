@@ -11,13 +11,13 @@ main:
   - title: "English"
     url: /publications/
     
-  - title: "论文/Publications"
+  - title: "论文 / Publications"
     url: /publications/
 
-  - title: "讲座/Talks"
+  - title: "讲座 / Talks"
     url: /talks/    
 
-  - title: "教学/Teaching"
+  - title: "教学 / Teaching"
     url: /teaching/    
     
   - title: "Portfolio"
