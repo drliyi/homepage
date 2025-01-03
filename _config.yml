@@ -25,10 +25,10 @@ author:
   name             : "李忆 / Yi Li"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "中国, 重庆 / Chongqing, China"
-  employer         : "Chongqing University of Posts and Telecommunications"
+  location         : "中国 重庆 / Chongqing, China"
+  employer         : "重庆邮电大学 / CQUPT"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "[liyi@cqupt.edu.cn](liyi@cqupt.edu.cn)" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
